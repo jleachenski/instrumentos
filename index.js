@@ -24,8 +24,7 @@ process.stdin.on("data", function(data) {
             console.log("Então vc é trovoso mesmo hein")
         } else if(entrada_usuario == "bateria") {
             console.log("Bater tambor")
-        } else {
-            console.log("Instrumento esquisito")
+        }
         }
     }
-});
+);
