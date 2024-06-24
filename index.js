@@ -18,9 +18,9 @@ process.stdin.on("data", function(data) {
             console.log("Não entendi")
         }
     } else {
-        if(entrada_usuario == "violão") {
+        if(entrada_usuario == "violao") {
             console.log("digirigidum")
-        } else if(entrada_usuario == "guitarrra") {
+        } else if(entrada_usuario == "guitarra") {
             console.log("Então vc é trovoso mesmo hein")
         } else if(entrada_usuario == "bateria") {
             console.log("Bater tambor")
