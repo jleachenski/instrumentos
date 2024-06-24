@@ -25,7 +25,7 @@ process.stdin.on("data", function(data) {
         } else if(entrada_usuario == "bateria") {
             console.log("Bater tambor")
         } else {
-            console.log("Instrumento esquisito")
+            console.log("Não conheço esse ai!")
         }
     }
 });
