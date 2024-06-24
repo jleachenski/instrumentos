@@ -11,7 +11,7 @@ process.stdin.on("data", function(data) {
         if(resposta == "s" || resposta == "sim") {
             console.log("Qual?")
         } else if (resposta == "n" || resposta == "não" || resposta == "nao") {
-            console.log("Nada de bom")
+            console.log("Nada de bom, não ta bão dimais!")
             process.exit()
         } else {
             resposta = undefined
