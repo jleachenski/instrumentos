@@ -1,6 +1,6 @@
 let resposta
 
-console.log("Toca algum instrumento?")
+console.log("toca algo?")
 
 process.stdin.on("data", function(data) {
     let entrada_usuario = data.toString().trim().toLowerCase()
