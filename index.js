@@ -27,5 +27,7 @@ process.stdin.on("data", function(data) {
         } else {
             console.log("Instrumento esquisito")
         }
+
+        console.log("Você é bobão!")
     }
 });
