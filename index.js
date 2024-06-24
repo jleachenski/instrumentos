@@ -1,4 +1,4 @@
-let resposta = 0
+let resposta = 0;
 
 console.log("Toca algum instrumento?")
 
