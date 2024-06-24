@@ -19,11 +19,11 @@ process.stdin.on("data", function(data) {
         }
     } else {
         if(entrada_usuario == "violão") {
-            console.log("digirigidum")
+            console.log("Caetano Veloso")
         } else if(entrada_usuario == "guitarrra") {
-            console.log("Então vc é trovoso mesmo hein")
+            console.log("Então vc é o bichão mesmo hein")
         } else if(entrada_usuario == "bateria") {
-            console.log("Bater tambor")
+            console.log("well done")
         } else {
             console.log("Instrumento esquisito");
         }
