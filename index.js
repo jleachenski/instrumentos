@@ -28,6 +28,6 @@ process.stdin.on("data", function(data) {
             console.log("Instrumento esquisito")
         }
 
-        console.log("Você é bobão!")
+        console.log("Você é bobão!");
     }
 });
