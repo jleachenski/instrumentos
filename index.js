@@ -1,4 +1,4 @@
-let resposta
+let resposta = ''
 
 console.log("Toca algum instrumento?")
 
