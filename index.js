@@ -21,13 +21,11 @@ process.stdin.on("data", function(data) {
         if(entrada_usuario == "violão") {
             console.log("digirigidum")
         } else if(entrada_usuario == "guitarrra") {
-            console.log("Então vc é trovoso mesmo hein")
+            console.log("Então vc é trovoso mesmo hein");
         } else if(entrada_usuario == "bateria") {
-            console.log("Bater tambor")
+            console.log("Bater tambor");
         } else {
-            console.log("Instrumento esquisito")
+            console.log("Instrumento esquisito");
         }
     }
 });
-Aaaa 
-bbbbb
