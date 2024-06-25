@@ -1,7 +1,7 @@
 let resposta = 0;
 oi
 console.log("Toca algum instrumento?")
-
+oi
 process.stdin.on("data", function(data) {
     let entrada_usuario = data.toString().trim().toLowerCase()
 
