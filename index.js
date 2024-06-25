@@ -1,5 +1,5 @@
 let resposta = 0;
-
+oi
 console.log("Toca algum instrumento?")
 
 process.stdin.on("data", function(data) {
